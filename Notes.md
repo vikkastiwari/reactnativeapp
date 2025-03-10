@@ -1,0 +1,1 @@
+- [Metro](https://metrobundler.dev/docs/configuration) is a JavaScript bundler. It takes in an entry file and various options, and gives you back a single JavaScript file that includes all your code and its dependencies.
